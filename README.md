@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Resoucrses
+### Resources
 - Data Sources:
 	- [data.js](/static/js/data.js)
 - Languages: 
